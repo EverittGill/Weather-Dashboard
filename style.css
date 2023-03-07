@@ -1,0 +1,11 @@
+.all-content {
+    border: 1px solid blue;
+}
+
+
+.right-side {
+    border: 1px solid red;
+    height: 500px;
+    width: 300px;
+    
+}
