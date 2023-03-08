@@ -15,6 +15,8 @@
 
 To use this website just follow this link
 
+https://everittgill.github.io/Weather-Dashboard/
+
 ## Usage
 
 Upon following the link you will see a page that looks like this. Enter whatever city you want and click the button to see the current weather and forecast. 
